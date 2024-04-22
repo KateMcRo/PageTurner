@@ -13,6 +13,8 @@ by adding books and reviews to the website for other users to view and review
 ![image](https://github.com/ManinderManan/PageTurner/assets/123151991/e3026605-90df-4ffb-9ddf-e16896794c27)
 ![image](https://github.com/ManinderManan/PageTurner/assets/123151991/751bf7b6-54ef-427c-9ea2-02f2245a63fc)
 
+Initial brand and design concepts on [Figma](https://www.figma.com/file/v6ts6MsHHCJMgtlf0vFJ55/Page-Turner?type=design&node-id=0-1&mode=design&t=PhTG8j8ApHshX04r-0)
+
 ## License
 This project uses MIT
 
